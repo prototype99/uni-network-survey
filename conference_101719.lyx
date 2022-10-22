@@ -163,32 +163,6 @@ network, networking
 Introduction
 \end_layout
 
-\begin_layout Standard
-This document is a model and instructions for \SpecialChar LaTeX
-.
- Please observe the conference page limits.
-\end_layout
-
-\begin_layout Section
-Ease of Use
-\end_layout
-
-\begin_layout Subsection
-Maintaining the Integrity of the Specifications
-\end_layout
-
-\begin_layout Standard
-The IEEEtran class file is used to format your paper and style the text.
- All margins, column widths, line spaces, and text fonts are prescribed;
- please do not alter them.
- You may note peculiarities.
- For example, the head margin measures proportionately more than is customary.
- This measurement and others are deliberate, using specifications that anticipat
-e your paper as one part of the entire proceedings, and not as an independent
- document.
- Please do not revise any of the current designations.
-\end_layout
-
 \begin_layout Section
 Prepare Your Paper Before Styling
 \end_layout
@@ -2081,32 +2055,6 @@ literal "false"
  M.
  Young, The Technical Writer's Handbook.
  Mill Valley, CA: University Science, 1989.
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace 12pt
-\end_inset
-
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-color{red}
-\end_layout
-
-\end_inset
-
- IEEE conference templates contain guidance text for composing and formatting
- conference papers.
- Please ensure that all template text is removed from your conference paper
- prior to submission to the conference.
- Failure to remove the template text from your paper may result in your
- paper not being published.
 \end_layout
 
 \end_body
