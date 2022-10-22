@@ -89,30 +89,7 @@
 \begin_body
 
 \begin_layout Title
-Conference Paper Title*
-\begin_inset Newline newline
-\end_inset
-
- 
-\size footnotesize
-
-\begin_inset Formula $^{*}$
-\end_inset
-
-Note: Sub-titles are not captured in Xplore and should not be used
-\size default
- 
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Identify applicable funding agency here.
- If none, delete this.
-\end_layout
-
-\end_inset
-
- 
+Conference Paper Title
 \end_layout
 
 \begin_layout Author
