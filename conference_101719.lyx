@@ -89,7 +89,7 @@
 \begin_body
 
 \begin_layout Title
-Conference Paper Title
+Avoid abbreviations in meeee
 \end_layout
 
 \begin_layout Author
@@ -151,84 +151,6 @@ network, networking
 
 \begin_layout Section
 Introduction
-\end_layout
-
-\begin_layout Section
-Prepare Your Paper Before Styling
-\end_layout
-
-\begin_layout Standard
-Before you begin to format your paper, first write and save the content
- as a separate text file.
- Complete all content and organizational editing before formatting.
- Please note sections 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "AA"
-plural "false"
-caps "false"
-noprefix "false"
-
-\end_inset
-
-–
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "SCM"
-plural "false"
-caps "false"
-noprefix "false"
-
-\end_inset
-
- below for more information on proofreading, spelling and grammar.
-\end_layout
-
-\begin_layout Standard
-Keep your text and graphic files separate until after the text has been
- formatted and styled.
- Do not number text heads—
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-\SpecialChar LaTeX
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
- will do that for you.
-\end_layout
-
-\begin_layout Subsection
-Abbreviations and Acronyms
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset label
-LatexCommand label
-name "AA"
-
-\end_inset
-
- Define abbreviations and acronyms the first time they are used in the text,
- even after they have been defined in the abstract.
- Abbreviations such as IEEE, SI, MKS, CGS, ac, dc, and rms do not have to
- be defined.
- Do not use abbreviations in the title or heads unless they are unavoidable.
 \end_layout
 
 \begin_layout Subsection
@@ -493,57 +415,6 @@ noprefix "false"
 \begin_layout Subsection
 \SpecialChar LaTeX
 -Specific Advice
-\end_layout
-
-\begin_layout Standard
-Please use 
-\begin_inset Quotes eld
-\end_inset
-
-soft
-\begin_inset Quotes erd
-\end_inset
-
- (e.g., 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-verb|
-\backslash
-eqref{Eq}|
-\end_layout
-
-\end_inset
-
-) cross references instead of 
-\begin_inset Quotes eld
-\end_inset
-
-hard
-\begin_inset Quotes erd
-\end_inset
-
- references (e.g., 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-verb|(1)|
-\end_layout
-
-\end_inset
-
-).
- That will make it possible to combine sections, add equations, or change
- the order of figures or citations without having to go through the file
- line by line.
 \end_layout
 
 \begin_layout Standard
@@ -861,16 +732,6 @@ verb|{array}|
 Some Common Mistakes
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset label
-LatexCommand label
-name "SCM"
-
-\end_inset
-
- 
-\end_layout
-
 \begin_layout Itemize
 The word 
 \begin_inset Quotes eld
@@ -1174,26 +1035,6 @@ literal "false"
 \end_inset
 
 .
-\end_layout
-
-\begin_layout Subsection
-Authors and Affiliations
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-The class file is designed for, but not limited to, six authors.
-
-\series default
- A minimum of one author is required for all conference articles.
- Author names should be listed starting from left to right and then moving
- down to the next line.
- This is the author sequence that will be used in future citations and by
- indexing services.
- Names should not be listed in columns nor group by affiliation.
- Please keep your affiliations as succinct as possible (for example, do
- not differentiate among departments of the same organization).
 \end_layout
 
 \begin_layout Subsection
