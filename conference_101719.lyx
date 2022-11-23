@@ -1427,9 +1427,8 @@ name "fig"
 \end_layout
 
 \begin_layout Standard
-Figure Labels: Use 8 point Times New Roman for Figure labels.
- Use words rather than symbols or abbreviations when writing Figure axis
- labels to avoid confusing the reader.
+Figure Labels: Use words rather than symbols or abbreviations when writing
+ Figure axis labels to avoid confusing the reader.
  As an example, write the quantity 
 \begin_inset Quotes eld
 \end_inset
