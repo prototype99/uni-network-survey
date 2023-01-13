@@ -151,7 +151,7 @@ network, networking, intelligent, machine learning, deep learning, reinforcement
 \end_layout
 
 \begin_layout Section
-Introduction
+style notes
 \end_layout
 
 \begin_layout Subsection
@@ -1218,8 +1218,6 @@ Table Column Head
 
 \series bold
 Head
-\series default
- 
 \end_layout
 
 \end_inset
@@ -1256,9 +1254,6 @@ Subhead
 \series bold
 \shape italic
 Subhead
-\series default
-\shape default
- 
 \end_layout
 
 \end_inset
@@ -1358,7 +1353,7 @@ name "tab1"
 
 \end_inset
 
- 
+
 \end_layout
 
 \end_inset
@@ -1419,7 +1414,7 @@ name "fig"
 
 \end_inset
 
- 
+
 \end_layout
 
 \end_inset
@@ -1721,6 +1716,17 @@ literal "false"
 \end_inset
 
 .
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Standard
+Intelligent networks use modern techniques to dynamically adapt to usage
+ demands, helping to alleviate experienced issues.
+ This often involves the use of advances in AI development, as well as new
+ techniques that allow greater degrees of adaptability.
 \end_layout
 
 \begin_layout Bibliography
