@@ -1581,7 +1581,7 @@ reference
 \begin_inset Quotes eld
 \end_inset
 
-Reference was the first 
+Reference [ref] was the first 
 \begin_inset Formula $\ldots$
 \end_inset
 
@@ -1597,45 +1597,6 @@ Number footnotes separately in superscripts.
  Place the actual footnote at the bottom of the column in which it was cited.
  Do not put footnotes in the abstract or reference list.
  Use letters for table footnotes.
-\end_layout
-
-\begin_layout Standard
-Unless there are six authors or more give all authors' names; do not use
- 
-\begin_inset Quotes eld
-\end_inset
-
-et al.
-\begin_inset Quotes erd
-\end_inset
-
-.
- Papers that have not been published, even if they have been submitted for
- publication, should be cited as 
-\begin_inset Quotes eld
-\end_inset
-
-unpublished
-\begin_inset Quotes erd
-\end_inset
-
-.
- Papers that have been accepted for publication should be cited as 
-\begin_inset Quotes eld
-\end_inset
-
-in press
-\begin_inset Quotes erd
-\end_inset
-
-.
- Capitalize only the first word in a paper title, except for proper nouns
- and element symbols.
-\end_layout
-
-\begin_layout Standard
-For papers published in translation journals, please give the English citation
- first, followed by the original foreign-language citation.
 \end_layout
 
 \begin_layout Section
