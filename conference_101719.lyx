@@ -146,9 +146,9 @@ This document is a model and instructions for \SpecialChar LaTeX
 \end_layout
 
 \begin_layout Keywords
-cognitive radio, deep learning, energy efficiency, intelligent networking,
- machine learning, network, networking, reconfiguration, reinforcement learning,
- spectrum sensing, survey
+cognitive radio, CSI feedback, deep learning, energy efficiency, intelligent
+ networking, machine learning, massive mimo, mimo, network, networking,
+ reconfiguration, reinforcement learning, spectrum sensing, survey
 \end_layout
 
 \begin_layout Section
@@ -1561,6 +1561,13 @@ literal "false"
 \end_inset
 
 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:A-diagram-of"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1568,16 +1575,12 @@ literal "false"
 
 \end_layout
 
-\begin_layout Plain Layout
+\end_inset
+
 
 \end_layout
 
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
+\begin_layout Standard
 CR is a useful technique for wireless networks
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -1596,8 +1599,18 @@ literal "false"
 
 \end_inset
 
-, CR is capable of creating an impromptu, unlicenced network bubble without
- disrupting any of the other networks around it.
+, CR is capable of creating an impromptu, unlicenced network bubble, much
+ like figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:A-diagram-of"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+, without disrupting any of the other networks around it.
  Devices inside the network are generally referred to as secondary users,
  whereas devices in the original network are referred to as primary users.
 \end_layout
@@ -1652,6 +1665,30 @@ literal "false"
  learning speed.
  Hardware solutions were also looked at; these did not directly offer IN
  capabilities, but offered opportunities for IN to be used more extensively.
+\end_layout
+
+\begin_layout Subsection
+Channel state information Net-Long Short-term Memory(CsiNet-LSTM)
+\end_layout
+
+\begin_layout Standard
+Reference 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "wangDeepLearningBasedCSI2019"
+literal "false"
+
+\end_inset
+
+ explores methods to improve Massive Multiple-Input Multiple-Output (MMIMO)
+ systems using DL.
+ MMIMO is an important technology for IN as it helps increase spectrum capacity
+ and reduces feedback.
+ Although quite short, this paper is dense and hard to follow, which could
+ easily deter readers.
+ The framework has been extensively designed and proven to be quite performant,
+ tests on real systems could lead to outstanding results for future wireless
+ networks, an important aspect of CR.
 \end_layout
 
 \begin_layout Standard
