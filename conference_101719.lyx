@@ -1696,6 +1696,24 @@ ML assisted CR
 \end_layout
 
 \begin_layout Standard
+Reference 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "zhouIntelligentWirelessCommunications2018"
+literal "false"
+
+\end_inset
+
+ explores how CR can be improved through the addition of ML.
+ It suggests that ML can increase the energy efficiency of CR and related
+ dynamic networks as well as addressing the scarcity of spectrum availability
+ for wireless networks in general.
+ In the introduction many time sensitive predictions are made, these are
+ now outdated and thus could be compared to real data in order to verify
+ the validity of any later assumptions that were based on those predictions.
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 btprint "btPrintCited"
