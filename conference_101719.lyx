@@ -1739,6 +1739,10 @@ literal "false"
  GPUs that implement acceleration features.
  The use of unsupervised learning is discussed, including less common methods
  such as Markov decision process and Q-learning.
+ Large cluster parallel computation is also mentioned, as a way to improve
+ learning speed.
+ Hardware solutions were also looked at; these did not directly offer IN
+ capabilities, but offered opportunities for IN to be used more extensively.
 \end_layout
 
 \begin_layout Standard
