@@ -56,7 +56,7 @@
 \use_package undertilde 0
 \cite_engine basic
 \cite_engine_type default
-\biblio_style plain
+\biblio_style ieeetr
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
@@ -1789,6 +1789,18 @@ CR is a useful technique for wireless networks that typically does not involve
  Through a method called spectrum listening where it analyses the spectrums
  in use, CR is capable of creating an impromptu, unlicenced network bubble
  without disrupting any of the other networks around it.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintCited"
+bibfiles "library"
+options "bibtotoc,ieeetr"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Bibliography
