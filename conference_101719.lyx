@@ -1741,6 +1741,56 @@ ty.
 Current trends
 \end_layout
 
+\begin_layout Standard
+In the IN field it is common to apply various forms of learning techniques.
+ Note that while learning is often interchangeably called AI, this is not
+ accurate and can create false assumptions about the technology.
+\end_layout
+
+\begin_layout Subsection
+Machine Learning (ML)
+\end_layout
+
+\begin_layout Standard
+ML uses past data to train a model which can then predict future results;
+ provided that data is suitably chosen, machine learning can be quite effective.
+\end_layout
+
+\begin_layout Subsection
+Deep Learning (DL)
+\end_layout
+
+\begin_layout Standard
+DL is much like machine learning, except multiple layers of learning occur,
+ resulting in a more highly optimised model.
+\end_layout
+
+\begin_layout Subsection
+Reinforcement Learning (RL)
+\end_layout
+
+\begin_layout Standard
+RL is a technique that is seeing a rise in popularity, due to modern hardware
+ being able to train a model in a sufficient amount of time.
+ RL works by having the computer, often concurrently, try multiple attempts
+ at a problem.
+ The computer will try to find the path that achieves the highest reward,
+ based on rules set by the programmer, generating a model based on the most
+ rewarded outcome.
+\end_layout
+
+\begin_layout Subsection
+Cognitive Radio (CR)
+\end_layout
+
+\begin_layout Standard
+CR is a useful technique for wireless networks that typically does not involve
+ artificial intelligence.
+ Through a method called spectrum listening where it analyses the spectrums
+ in use, CR is capable of creating an impromptu, unlicenced network bubble
+ without disrupting any of the other networks around it.
+\end_layout
+
 \begin_layout Bibliography
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
