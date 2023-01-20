@@ -1624,7 +1624,8 @@ Current trends
 \end_layout
 
 \begin_layout Standard
-In the IN field it is common to apply various forms of learning techniques.
+In the IN field it is common to apply various forms of supervised learning
+ techniques.
  Note that while learning is often interchangeably called AI, this is not
  accurate and can create false assumptions about the technology.
 \end_layout
@@ -1634,8 +1635,9 @@ Machine Learning (ML)
 \end_layout
 
 \begin_layout Standard
-ML uses past data to train a model which can then predict future results;
- provided that data is suitably chosen, ML can be quite effective.
+ML is a supervised learning technique that uses past data to train a model
+ which can then predict future results; provided that data is suitably chosen,
+ ML can be quite effective.
 \end_layout
 
 \begin_layout Subsection
@@ -1652,8 +1654,9 @@ Reinforcement Learning (RL)
 \end_layout
 
 \begin_layout Standard
-RL is a technique that is seeing a rise in popularity, due to modern hardware
- being able to train a model in a sufficient amount of time.
+RL is an unsupervised learning technique that is seeing a rise in popularity,
+ due to modern hardware being able to train a model in a sufficient amount
+ of time.
  RL works by having the computer, often concurrently, try multiple attempts
  at a problem.
  The computer will try to find the path that achieves the highest reward,
@@ -1734,7 +1737,8 @@ literal "false"
  The use of a Graphical Processing Unit (GPU) to accelerate learning is
  mentioned, perhaps with a focus on the fact that modern smartphones have
  GPUs that implement acceleration features.
- 
+ The use of unsupervised learning is discussed, including less common methods
+ such as Markov decision process and Q-learning.
 \end_layout
 
 \begin_layout Standard
