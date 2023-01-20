@@ -1711,6 +1711,8 @@ literal "false"
  In the introduction many time sensitive predictions are made, these are
  now outdated and thus could be compared to real data in order to verify
  the validity of any later assumptions that were based on those predictions.
+ All of the current trending learning techniques have been mentioned, meaning
+ that it should be easily comparable to newer papers.
 \end_layout
 
 \begin_layout Standard
