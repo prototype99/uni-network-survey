@@ -1665,8 +1665,15 @@ Cognitive Radio (CR)
 \end_layout
 
 \begin_layout Standard
-CR is a useful technique for wireless networks that typically does not involve
- artificial intelligence.
+CR is a useful technique for wireless networks
+\begin_inset CommandInset citation
+LatexCommand cite
+key "zhouIntelligentWirelessCommunications2018"
+literal "false"
+
+\end_inset
+
+ that typically does not involve artificial intelligence.
  Through a method called spectrum listening where it analyses the spectrums
  in use, CR is capable of creating an impromptu, unlicenced network bubble
  without disrupting any of the other networks around it.
