@@ -1672,6 +1672,17 @@ CR is a useful technique for wireless networks that typically does not involve
  without disrupting any of the other networks around it.
 \end_layout
 
+\begin_layout Section
+Literature review
+\end_layout
+
+\begin_layout Standard
+What follows is a variety of papers relating to the aforementioned current
+ trends in IN.
+ This is by no means a complete review of the field, it is advised to research
+ topics of interest further.
+\end_layout
+
 \begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
