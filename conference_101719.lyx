@@ -1676,8 +1676,18 @@ literal "false"
 
  that typically does not involve artificial intelligence.
  Through a method called spectrum listening where it analyses the spectrums
- in use, CR is capable of creating an impromptu, unlicenced network bubble
- without disrupting any of the other networks around it.
+ in use and identifies ones that are unused or dormant
+\begin_inset CommandInset citation
+LatexCommand cite
+key "zhouIntelligentWirelessCommunications2018"
+literal "false"
+
+\end_inset
+
+, CR is capable of creating an impromptu, unlicenced network bubble without
+ disrupting any of the other networks around it.
+ Devices inside the network are generally referred to as secondary users,
+ whereas devices in the original network are referred to as primary users.
 \end_layout
 
 \begin_layout Section
@@ -1705,14 +1715,26 @@ literal "false"
 \end_inset
 
  explores how CR can be improved through the addition of ML.
- It suggests that ML can increase the energy efficiency of CR and related
- dynamic networks as well as addressing the scarcity of spectrum availability
- for wireless networks in general.
+ It is suggested that ML can increase the energy efficiency of CR (with
+ a particular focus on mobile devices) and related dynamic networks as well
+ as addressing the scarcity of spectrum availability for wireless networks
+ in general.
  In the introduction many time sensitive predictions are made, these are
  now outdated and thus could be compared to real data in order to verify
  the validity of any later assumptions that were based on those predictions.
  All of the current trending learning techniques have been mentioned, meaning
  that it should be easily comparable to newer papers.
+ It is mentioned that spectrum sensing must be used in a repeated manner
+ to ensure that there are not sudden disruptions to primary users.
+ Additionally, it is mentioned that a balance between spectrum sensing and
+ data transmission must be achieved for optimal efficiency and performance.
+ A modern version of CR is discussed, where the underlying infrastructure
+ is designed to allow simultaneous access for both the primary and secondary
+ users.
+ The use of a Graphical Processing Unit (GPU) to accelerate learning is
+ mentioned, perhaps with a focus on the fact that modern smartphones have
+ GPUs that implement acceleration features.
+ 
 \end_layout
 
 \begin_layout Standard
