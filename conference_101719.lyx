@@ -1027,15 +1027,7 @@ for example
 \end_layout
 
 \begin_layout Standard
-An excellent style manual for science writers is 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "b7"
-literal "false"
-
-\end_inset
-
-.
+An excellent style manual for science writers is .
 \end_layout
 
 \begin_layout Subsection
@@ -1566,46 +1558,14 @@ References
 \end_layout
 
 \begin_layout Standard
-Please number citations consecutively within brackets 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "b1"
-literal "false"
-
-\end_inset
-
-.
- The sentence punctuation follows the bracket 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "b2"
-literal "false"
-
-\end_inset
-
-.
- Refer simply to the reference number, as in 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "b3"
-literal "false"
-
-\end_inset
-
-—do not use 
+Please number citations consecutively within brackets .
+ The sentence punctuation follows the bracket .
+ Refer simply to the reference number, as in —do not use 
 \begin_inset Quotes eld
 \end_inset
 
 Ref.
  
-\begin_inset CommandInset citation
-LatexCommand cite
-key "b3"
-literal "false"
-
-\end_inset
-
-
 \begin_inset Quotes erd
 \end_inset
 
@@ -1614,14 +1574,6 @@ literal "false"
 \end_inset
 
 reference 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "b3"
-literal "false"
-
-\end_inset
-
-
 \begin_inset Quotes erd
 \end_inset
 
@@ -1629,15 +1581,7 @@ literal "false"
 \begin_inset Quotes eld
 \end_inset
 
-Reference 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "b3"
-literal "false"
-
-\end_inset
-
- was the first 
+Reference was the first 
 \begin_inset Formula $\ldots$
 \end_inset
 
@@ -1675,14 +1619,6 @@ unpublished
 \begin_inset Quotes erd
 \end_inset
 
- 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "b4"
-literal "false"
-
-\end_inset
-
 .
  Papers that have been accepted for publication should be cited as 
 \begin_inset Quotes eld
@@ -1692,14 +1628,6 @@ in press
 \begin_inset Quotes erd
 \end_inset
 
- 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "b5"
-literal "false"
-
-\end_inset
-
 .
  Capitalize only the first word in a paper title, except for proper nouns
  and element symbols.
@@ -1707,15 +1635,7 @@ literal "false"
 
 \begin_layout Standard
 For papers published in translation journals, please give the English citation
- first, followed by the original foreign-language citation 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "b6"
-literal "false"
-
-\end_inset
-
-.
+ first, followed by the original foreign-language citation.
 \end_layout
 
 \begin_layout Section
@@ -1801,171 +1721,6 @@ options "bibtotoc,ieeetr"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Bibliography
-\begin_inset CommandInset bibitem
-LatexCommand bibitem
-key "b1"
-literal "false"
-
-\end_inset
-
- G.
- Eason, B.
- Noble, and I.
- N.
- Sneddon, 
-\begin_inset Quotes eld
-\end_inset
-
-On certain integrals of Lipschitz-Hankel type involving products of Bessel
- functions,
-\begin_inset Quotes erd
-\end_inset
-
- Phil.
- Trans.
- Roy.
- Soc.
- London, vol.
- A247, pp.
- 529–551, April 1955.
- 
-\end_layout
-
-\begin_layout Bibliography
-\begin_inset CommandInset bibitem
-LatexCommand bibitem
-key "b2"
-literal "false"
-
-\end_inset
-
- J.
- Clerk Maxwell, A Treatise on Electricity and Magnetism, 3rd ed., vol.
- 2.
- Oxford: Clarendon, 1892, pp.68–73.
- 
-\end_layout
-
-\begin_layout Bibliography
-\begin_inset CommandInset bibitem
-LatexCommand bibitem
-key "b3"
-literal "false"
-
-\end_inset
-
- I.
- S.
- Jacobs and C.
- P.
- Bean, 
-\begin_inset Quotes eld
-\end_inset
-
-Fine particles, thin films and exchange anisotropy,
-\begin_inset Quotes erd
-\end_inset
-
- in Magnetism, vol.
- III, G.
- T.
- Rado and H.
- Suhl, Eds.
- New York: Academic, 1963, pp.
- 271–350.
- 
-\end_layout
-
-\begin_layout Bibliography
-\begin_inset CommandInset bibitem
-LatexCommand bibitem
-key "b4"
-literal "false"
-
-\end_inset
-
- K.
- Elissa, 
-\begin_inset Quotes eld
-\end_inset
-
-Title of paper if known,
-\begin_inset Quotes erd
-\end_inset
-
- unpublished.
- 
-\end_layout
-
-\begin_layout Bibliography
-\begin_inset CommandInset bibitem
-LatexCommand bibitem
-key "b5"
-literal "false"
-
-\end_inset
-
- R.
- Nicole, 
-\begin_inset Quotes eld
-\end_inset
-
-Title of paper with only first word capitalized,
-\begin_inset Quotes erd
-\end_inset
-
- J.
- Name Stand.
- Abbrev., in press.
- 
-\end_layout
-
-\begin_layout Bibliography
-\begin_inset CommandInset bibitem
-LatexCommand bibitem
-key "b6"
-literal "false"
-
-\end_inset
-
- Y.
- Yorozu, M.
- Hirano, K.
- Oka, and Y.
- Tagawa, 
-\begin_inset Quotes eld
-\end_inset
-
-Electron spectroscopy studies on magneto-optical media and plastic substrate
- interface,
-\begin_inset Quotes erd
-\end_inset
-
- IEEE Transl.
- J.
- Magn.
- Japan, vol.
- 2, pp.
- 740–741, August 1987 [Digests 9th Annual Conf.
- Magnetics Japan, p.
- 301, 1982].
- 
-\end_layout
-
-\begin_layout Bibliography
-\begin_inset CommandInset bibitem
-LatexCommand bibitem
-key "b7"
-literal "false"
-
-\end_inset
-
- M.
- Young, The Technical Writer's Handbook.
- Mill Valley, CA: University Science, 1989.
 \end_layout
 
 \end_body
