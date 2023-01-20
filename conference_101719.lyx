@@ -1354,142 +1354,6 @@ name "tab1"
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset Float figure
-placement htbp
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-centerline{
-\end_layout
-
-\end_inset
-
-
-\begin_inset Graphics
-	filename fig1.png
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
- 
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Example of a figure caption.
-\end_layout
-
-\end_inset
-
-
-\begin_inset CommandInset label
-LatexCommand label
-name "fig"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Figure Labels: Use words rather than symbols or abbreviations when writing
- Figure axis labels to avoid confusing the reader.
- As an example, write the quantity 
-\begin_inset Quotes eld
-\end_inset
-
-Magnetization
-\begin_inset Quotes erd
-\end_inset
-
-, or 
-\begin_inset Quotes eld
-\end_inset
-
-Magnetization, M
-\begin_inset Quotes erd
-\end_inset
-
-, not just 
-\begin_inset Quotes eld
-\end_inset
-
-M
-\begin_inset Quotes erd
-\end_inset
-
-.
- If including units in the label, present them within parentheses.
- Do not label axes only with units.
- In the example, write 
-\begin_inset Quotes eld
-\end_inset
-
-Magnetization (A/m)
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-Magnetization {A[m(1)]}
-\begin_inset Quotes erd
-\end_inset
-
-, not just 
-\begin_inset Quotes eld
-\end_inset
-
-A/m
-\begin_inset Quotes erd
-\end_inset
-
-.
- Do not label axes with a ratio of quantities and units.
- For example, write 
-\begin_inset Quotes eld
-\end_inset
-
-Temperature (K)
-\begin_inset Quotes erd
-\end_inset
-
-, not 
-\begin_inset Quotes eld
-\end_inset
-
-Temperature/K
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
 \begin_layout Section*
 Acknowledgment
 \end_layout
@@ -1669,6 +1533,51 @@ Cognitive Radio (CR)
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+placement tb
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename cr.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+A diagram of a typical CR network
+\begin_inset CommandInset citation
+LatexCommand cite
+key "okiDynamicSpectrumReconfiguration2017"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
 CR is a useful technique for wireless networks
 \begin_inset CommandInset citation
 LatexCommand cite
